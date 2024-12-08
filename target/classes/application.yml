@@ -1,0 +1,27 @@
+spring.profiles.active: dev
+feed.filename: demo.feed
+
+audit:
+  amount:
+    deposit: 99
+    withdrawal: 99
+
+---
+
+spring:
+  profiles: dev
+  debug: true
+  audit:
+    amount:
+      deposit: 99
+      withdrawal: 99
+
+---
+
+spring:
+  profiles: prod
+  debug: false
+  audit:
+    amount:
+      deposit: 1000
+      withdrawal: 1000

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d2c855f-72f1-4948-bc84-4550854f722b" name="Default Changelist" comment="Ex5 done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f93adda48ea92fb656bb3a1338cf3766a41eee84" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="1aWoeRUt0qRduWsigyqrkN4acUh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BankApplicationTests3.executor": "Run",
+    "JUnit.BankApplicationTests3.withdrawFromClient1.executor": "Run",
+    "JUnit.BankApplicationTests4 (1).executor": "Run",
+    "JUnit.BankApplicationTests4.executor": "Run",
+    "JUnit.BankApplicationTests4.withdrawFromClient1.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "e5a391c8",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luxoft.bankapp" />
+      <recent name="com.luxoft.bankapp.service.audit.events" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankApplicationTests4">
+    <configuration name="BankApplicationTests3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.bankapp" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.bankapp.BankApplicationTests3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApplicationTests3.withdrawFromClient1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.bankapp" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.bankapp.BankApplicationTests3" />
+      <option name="METHOD_NAME" value="withdrawFromClient1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApplicationTests4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankapp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankApplicationTests4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApplicationTests4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.bankapp" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.bankapp.BankApplicationTests4" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApplicationTests4.withdrawFromClient1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.bankapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.bankapp" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.bankapp.BankApplicationTests4" />
+      <option name="METHOD_NAME" value="withdrawFromClient1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bankapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luxoft.bankapp.BankApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankApplicationTests4" />
+        <item itemvalue="JUnit.BankApplicationTests4.withdrawFromClient1" />
+        <item itemvalue="JUnit.BankApplicationTests4 (1)" />
+        <item itemvalue="JUnit.BankApplicationTests3" />
+        <item itemvalue="JUnit.BankApplicationTests3.withdrawFromClient1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d2c855f-72f1-4948-bc84-4550854f722b" name="Default Changelist" comment="" />
+      <created>1586860805542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586860805542</updated>
+      <workItem from="1586860807817" duration="3512000" />
+      <workItem from="1586954259443" duration="2303000" />
+      <workItem from="1587017669160" duration="2366000" />
+      <workItem from="1587107617969" duration="26000" />
+      <workItem from="1587451983178" duration="2211000" />
+      <workItem from="1587972536895" duration="5960000" />
+      <workItem from="1588055223630" duration="492000" />
+      <workItem from="1588140275379" duration="2885000" />
+      <workItem from="1588223709284" duration="9000" />
+      <workItem from="1588682396881" duration="2660000" />
+      <workItem from="1588834661600" duration="14563000" />
+      <workItem from="1588923048457" duration="2721000" />
+      <workItem from="1589263290296" duration="10000" />
+      <workItem from="1589266684053" duration="187000" />
+      <workItem from="1589305210247" duration="547000" />
+      <workItem from="1589349456180" duration="957000" />
+      <workItem from="1589350510800" duration="181000" />
+      <workItem from="1733694395076" duration="2681000" />
+    </task>
+    <task id="LOCAL-00001" summary="ex 4 boot finished">
+      <created>1587974366178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587974366179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ex 4 boot init">
+      <created>1587976056935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587976056935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="useless banking bean removed">
+      <created>1587977703603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977703603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ex 4 boot final">
+      <created>1588140816991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588140816991</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ex-4-t2-init-final">
+      <created>1588140881315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588140881315</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ex 4 task 3 finished">
+      <created>1588684668630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588684668631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ex 4 task 3 init tests">
+      <created>1588684899955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588684899955</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ex 4 task 1 init">
+      <created>1588849124474</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588849124475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ex 4 task 1 finished">
+      <created>1588849197139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588849197139</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ex 4 task 1 finished">
+      <created>1588849297542</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588849297543</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ex 4 task 2 init">
+      <created>1588849793621</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588849793621</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ex 5 task 2 finished">
+      <created>1588858149479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588858149479</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ex5 done">
+      <option name="closed" value="true" />
+      <created>1733697030584</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733697030584</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ex 4 boot finished" />
+    <MESSAGE value="ex 4 boot init" />
+    <MESSAGE value="useless banking bean removed" />
+    <MESSAGE value="ex 4 boot final" />
+    <MESSAGE value="ex-4-t2-init-final" />
+    <MESSAGE value="ex 4 task 3 finished" />
+    <MESSAGE value="ex 4 task 3 init tests" />
+    <MESSAGE value="ex 4 task 1 init" />
+    <MESSAGE value="ex 4 task 1 finished" />
+    <MESSAGE value="ex 4 task 2 init" />
+    <MESSAGE value="ex 5 task 2 finished" />
+    <MESSAGE value="Ex5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex5 done" />
+  </component>
+</project>

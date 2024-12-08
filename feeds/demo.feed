@@ -1,0 +1,5 @@
+NAME=Adam Budzinski;GENDER=MALE;CITY=Kiev;overdraft=1500.0;balance=-500.0;type=CHECKING
+NAME=Anna Smith;GENDER=FEMALE;CITY=New York;balance=1000.0;type=SAVING
+NAME=Anna Smith;GENDER=FEMALE;CITY=New York;overdraft=0.0;balance=3000.0;type=CHECKING
+NAME=Jonny Bravo;GENDER=MALE;CITY=Moscow;balance=1000.0;type=SAVING
+NAME=Jonny Bravo;GENDER=MALE;CITY=Moscow;overdraft=1000.0;balance=4000.0;type=CHECKING
